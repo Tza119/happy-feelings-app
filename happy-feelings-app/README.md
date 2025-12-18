@@ -1,6 +1,6 @@
 # Happy Feelings App (Web)
 
-This is a Vite + React single-page application that replicates the Happy Feelings app screens from your design.
+This is a Vite + React application for the Happy Feelings app 
 
 ## How to run
 
